@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nama": "Udin",
+    "nominal": 25000,
+    "catatan": "Nasi Padang + Es Teh (Lauk Rendang)",
+    "tanggal": "2025-11-30"
+  },
+  {
+    "id": 2,
+    "nama": "Siti",
+    "nominal": 150000,
+    "catatan": "Talangin beli tiket bioskop + Popcorn buat 3 orang",
+    "tanggal": "2025-11-30"
+  }
+]
