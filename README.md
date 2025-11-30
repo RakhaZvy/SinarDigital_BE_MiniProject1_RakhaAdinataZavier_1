@@ -35,7 +35,7 @@ Aplikasi Backend sederhana berbasis **Express.js** untuk mencatat daftar utang.
 
 ### 1. Cek Status Server
 
-- **URL:** `/`
+- **URL:** `http://localhost:3000/`
 - **Method:** `GET`
 - **Deskripsi:** Mengecek apakah server berjalan.
 
