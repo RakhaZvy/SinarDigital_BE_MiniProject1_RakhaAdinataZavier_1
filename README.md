@@ -51,7 +51,7 @@ Aplikasi Backend sederhana berbasis **Express.js** untuk mencatat daftar utang.
   {
     "message": "Daftar Pencatat Utang",
     "total_data": 5,
-    "data": [ ... ]
+    "data": [ data yang ada didalamnya]
   }
   ```
 
@@ -60,8 +60,9 @@ Aplikasi Backend sederhana berbasis **Express.js** untuk mencatat daftar utang.
 - **URL:** `http://localhost:3000/api/tambah`
 - **Method:** `POST`
 - **Body (JSON):**
-  ```json
   Example:
+  ```json
+  
   {
     "nama": "Udin",
     "nominal": 50000,
